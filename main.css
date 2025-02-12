@@ -1,0 +1,53 @@
+body {
+    background-color: rgba(151, 165, 156, 0.327);
+    justify-content: center;
+    align-items: center;
+
+}
+img{
+    width: 100px ;
+    height: auto;
+    display: inline;
+}
+
+
+
+h1 {
+    color: rgba(67, 48, 85, 0.684);
+    float: left;
+    margin: 10px;
+}
+
+p{ 
+    color: rgba(60, 59, 89, 0.672);
+    display:block;
+    margin-top: 100px ;
+    margin-left: 400px;
+}
+
+
+.FanFic_Buttons{
+    background-color: rgba(108, 104, 139, 0.628);
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(216, 239, 233, 0.667);
+    padding: 50px;
+    border: none;
+    margin: 50px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+}
+.FanFic_Buttons:hover{
+    border: 5px;
+    border: solid;
+    border-color: rgba(76, 68, 68, 0.479);
+    background-color: rgb(208, 223, 216);
+    color: rgb(103, 94, 121);
+}
+
+.fanficFonts{
+    background-color: blueviolet;
+    font-size: 20px;
+    margin: 50px;
+}
